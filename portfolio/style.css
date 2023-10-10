@@ -1,0 +1,45 @@
+#dk{
+ text-align:center;
+ background-color: black;
+}
+h1{
+    color:aqua;
+}
+#sk{
+    color:rgb(1, 1, 1);
+    text-align:center;
+    /* background-color:rgb(170, 248, 170) ; */
+    background-image: url("nbg.jpg") ;
+}
+#mdk{
+    text-align: center;
+    background-color: black;
+}
+#q{
+    text-align: center;
+    color:aqua
+}
+#aaa{
+    background-image: url("nbg.jpg") ;
+}
+#wee{
+    text-align: center;
+    color:aqua
+}
+#we{
+    background-image: url("nbg.jpg") ;
+}
+#xc{
+ background-image: url("nbg.jpg");
+ text-align: center;
+ font-size: larger;
+}
+#z{
+    background-color: black;
+    text-align: center;
+}
+#x{
+    background-image: url("nbg.jpg");
+text-align: center;
+font-size: x-large;
+}
